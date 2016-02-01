@@ -18,7 +18,7 @@
     "marty-lib": "git+https://git@github.com/alex-mcleod/marty-lib.git#master"
   },
   "peerDependencies": {
-    
+    "react-native": "^0.19.0"
   },
   "author": "James Hollingworth",
   "licence": "MIT",
