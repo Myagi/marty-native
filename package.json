@@ -15,7 +15,7 @@
     "flux"
   ],
   "dependencies": {
-    "marty-lib": "github:alex-mcleod/marty-lib#master"
+    "marty-lib": "github:alex-mcleod/marty-lib#971943c13810a9fc4a3ecd772848ed8eed607430"
   },
   "peerDependencies": {
     "react-native": "^0.19.0"
