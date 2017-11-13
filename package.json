@@ -1,7 +1,8 @@
 {
   "name": "marty-native",
   "version": "0.10.4",
-  "description": "A Javascript library for state management in React applications",
+  "description":
+    "A Javascript library for state management in React applications",
   "main": "marty.js",
   "directories": {
     "lib": "./lib"
@@ -10,12 +11,10 @@
     "type": "git",
     "url": "git@github.com:martyjs/marty-native.git"
   },
-  "keywords": [
-    "react",
-    "flux"
-  ],
+  "keywords": ["react", "flux"],
   "dependencies": {
-    "marty-lib": "github:alex-mcleod/marty-lib#971943c13810a9fc4a3ecd772848ed8eed607430"
+    "marty-lib":
+      "github:Myagi/marty-lib#8fb671befafdef601f574ccd2af79460a6266b12"
   },
   "peerDependencies": {
     "react-native": "^0.19.0"
